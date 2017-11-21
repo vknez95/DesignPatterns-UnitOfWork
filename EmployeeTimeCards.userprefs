@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{2CBCCE10-CF93-4050-95A7-9E0D91802D1C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EmployeeWeb/Models/AccountModels.cs">
+    <Files>
+      <File FileName="EmployeeWeb/Controllers/EmployeeController.cs" Line="29" Column="58" />
+      <File FileName="EmployeeWeb/Models/AccountModels.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.EmployeeWeb PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
